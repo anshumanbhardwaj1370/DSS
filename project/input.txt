@@ -1,0 +1,26 @@
+4
+ram 5051
+shyam 5053
+naam 5055
+kaam 5005
+ram shyam hello bhai
+shyam ram ek dum mast
+naam kaam  hi kaam i am naam
+shyam naam a
+kaam ram b
+kaam naam c
+shyam naam d
+ram shyam hello bhai
+shyam ram ek dum mast
+naam kaam  hi kaam i am naam
+shyam naam a
+kaam ram b
+kaam naam c
+shyam naam d
+ram shyam hello bhai
+shyam ram ek dum mast
+naam kaam  hi kaam i am naam
+shyam naam a
+kaam ram b
+kaam naam c
+shyam naam d
